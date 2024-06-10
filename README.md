@@ -4,6 +4,7 @@
 - [Literature Review](Literature%20review%20final.pdf)
 - [Yprofiling Report](Yprofiling%20Report.pdf)
 - [Python code](CIND820_Nehal's_project_Diabetes_datasetfinal.ipynb)
+- [Project Methodology Flowchart](Project%20Methodology1.drawio)
 
 
 
