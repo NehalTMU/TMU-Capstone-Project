@@ -3,7 +3,6 @@
 - [Abstract](Abstract%20final.pdf)
 - [Literature Review](Literature%20review%20final.pdf)
 - [Ydata Profiling Report](ydata_profiling_report_FINAL.pdf)
-- [Python code](CIND820_Nehal's_project_Diabetes_datasetfinal.ipynb)
 - [Project Methodology Flowchart](Project%20Methodology1.drawio.png)
 - Initial Results:
   - [Classification (Notebook)](CIND820_Nehal's_project_Diabetes_dataset_Classification_FINAL.ipynb)
