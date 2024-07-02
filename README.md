@@ -12,7 +12,7 @@
   - [Classification (PDF)](CIND820_Nehal's_project_Diabetes_dataset_Classification%20FINAL.pdf)
   - [Clustering (PDF)](CIND820-Nehal's%20project-Diabetes%20dataset%20Clustering%20FINAL.pdf)
   - [Preprocessing (PDF)](CIND820-Nehal's%20project-Diabetes%20dataset%20Preprocessing.pdf)
-
+- [Diabetic Dataset](diabetic_data.csv)
 
 
 
