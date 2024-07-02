@@ -6,7 +6,6 @@
 - [Python code](CIND820_Nehal's_project_Diabetes_datasetfinal.ipynb)
 - [Project Methodology Flowchart](Project%20Methodology1.drawio.png)
 - Initial Results:
-- Initial Results:
   - [Classification (Notebook)](CIND820_Nehal's_project_Diabetes_dataset_Classification_FINAL.ipynb)
   - [Clustering (Notebook)](CIND820_Nehal's_project_Diabetes_dataset_Clustering_FINAL.ipynb)
   - [Preprocessing (Notebook)](CIND820_Nehal's_project_Diabetes_dataset_Preprocessing.ipynb)
