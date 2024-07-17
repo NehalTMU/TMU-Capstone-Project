@@ -12,7 +12,8 @@
   - [Clustering (PDF)](CIND820_Nehal's_project_Diabetes_dataset_Clustering_Results.pdf)
   - [Preprocessing (PDF)](CIND820-Nehal's%20project-Diabetes%20dataset%20Preprocessing.pdf)
 - [Diabetic Dataset](diabetic_data.csv)
-- [Final Report](CIND%20820-Final%20Report-Nehal%20Mohamed.docx)
+- [Final Report](CIND%20820-Final%20Report-Nehal%20Mohamed-compressed.pdf)
+
 
 
 
