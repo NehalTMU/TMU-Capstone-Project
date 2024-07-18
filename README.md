@@ -4,7 +4,7 @@
 - [Literature Review](Literature%20review%20final.pdf)
 - [Ydata Profiling Report](ydata_profiling_report_FINAL.pdf)
 - [Project Methodology Flowchart](Project%20Methodology.png)
-- Initial Results:
+- Final Results:
   - [Classification (Notebook)](CIND820_Nehal's_project_Diabetes_dataset_Classification_Results.ipynb)
   - [Clustering (Notebook)](CIND820_Nehal's_project_Diabetes_dataset_Clustering_Results.ipynb)
   - [Preprocessing (Notebook)](CIND820_Nehal's_project_Diabetes_dataset_Preprocessing.ipynb)
